@@ -18,6 +18,9 @@ local.properties
 # idea
 .idea/
 
+#log
+.tomcat_log.txt
+
 # External tool builders
 .externalToolBuilders/
 
